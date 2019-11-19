@@ -1,0 +1,12 @@
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.Entities\bin\Debug\SatinAlma.Entities.dll.config
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.Entities\bin\Debug\SatinAlma.Entities.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.Entities\bin\Debug\SatinAlma.Entities.pdb
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.Entities\bin\Debug\EntityFramework.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.Entities\bin\Debug\EntityFramework.xml
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.Entities\obj\Debug\SatinAlma.Entities.csprojAssemblyReference.cache
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.Entities\obj\Debug\SatinAlma.Entities.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.Entities\obj\Debug\SatinAlma.Entities.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.Entities\obj\Debug\SatinAlma.Entities.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.Entities\obj\Debug\SatinAlma.Entities.pdb

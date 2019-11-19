@@ -1,0 +1,16 @@
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\bin\Debug\SatinAlma.BusinessLayer.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\bin\Debug\SatinAlma.BusinessLayer.pdb
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\obj\Debug\SatinAlma.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\obj\Debug\SatinAlma.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\obj\Debug\SatinAlma.BusinessLayer.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\obj\Debug\SatinAlma.BusinessLayer.pdb
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\bin\Debug\SatinAlma.DataAccesLayer.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\bin\Debug\SatinAlma.Entities.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\bin\Debug\SatinAlma.DataAccesLayer.pdb
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\bin\Debug\SatinAlma.DataAccesLayer.dll.config
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\bin\Debug\SatinAlma.Entities.pdb
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\bin\Debug\SatinAlma.Entities.dll.config
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\obj\Debug\SatinAlma.BusinessLayer.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\bin\Debug\Ninject.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.BusinessLayer\bin\Debug\Ninject.xml

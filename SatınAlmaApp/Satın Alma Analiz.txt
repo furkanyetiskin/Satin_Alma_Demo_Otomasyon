@@ -1,0 +1,8 @@
+-Personeller
+-Satın Alma Yetkili Personeller
+-Kategoriler
+-Ürünler
+-Satın Alınan Ürünler
+-Satın Alınması Reddedilen Ürünler
+-Satın Alınması için Onay bekleyen ürünler
+-Tedarikçiler

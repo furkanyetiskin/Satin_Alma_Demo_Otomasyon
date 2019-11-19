@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\bin\Debug\SatinAlma.DataAccesLayer.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\bin\Debug\SatinAlma.DataAccesLayer.pdb
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\obj\Debug\SatinAlma.DataAccesLayer.csprojAssemblyReference.cache
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\obj\Debug\SatinAlma.DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\obj\Debug\SatinAlma.DataAccesLayer.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\obj\Debug\SatinAlma.DataAccesLayer.pdb
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\bin\Debug\SatinAlma.DataAccesLayer.dll.config
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\bin\Debug\EntityFramework.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\bin\Debug\SatinAlma.Entities.dll
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\bin\Debug\SatinAlma.Entities.pdb
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\bin\Debug\SatinAlma.Entities.dll.config
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\bin\Debug\EntityFramework.xml
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FURKAN\Desktop\Yazılım\C#Projeler\SatınAlmaApp\PresentationLayer\SatinAlma.DataAccesLayer\obj\Debug\SatinAlma.DataAccesLayer.csproj.CopyComplete
